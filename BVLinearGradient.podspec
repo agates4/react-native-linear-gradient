@@ -15,6 +15,4 @@ Pod::Spec.new do |s|
   s.source_files    = 'BVLinearGradient/*.{h,m}'
   s.preserve_paths  = "**/*.js"
   
-  s.dependency 'React'
-
 end
